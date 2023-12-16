@@ -1,16 +1,17 @@
-# bmicalculator
+Excited to share my latest Flutter project! 🚀 Developed using CupertinoWidgets and powered by the SharedPreferences package, this sleek and user-friendly app calculates BMI effortlessly. 📱✨
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+🚀 Features:
 
-A few resources to get you started if this is your first Flutter project:
+-Calculate BMI with just a few taps
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Track your health journey over time
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Clean and modern design using CupertinoWidgets
+
+-Data persistence made easy with SharedPreferences
+
+
+
+Excited to hear your thoughts and feedback! Let's continue pushing boundaries in the world of mobile app development. 🧑‍💻🔍 #Flutter #MobileApp #AppDevelopment #FlutterDev #OpenSource #TechInnovation
